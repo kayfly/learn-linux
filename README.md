@@ -16,6 +16,7 @@ ls list 列出目录下文件
 cd changedir 切换目录
 pwd 列出当前的路径
 
+mv 移动文件或文件夹
 ——————————————
 apt 所有的程序安装管理  理同termux
 apt install  xxx  git
@@ -31,3 +32,7 @@ npm uninstall
 npm update
 #常用软件  vim git lrzsz
 apt install vim git lrzsz -y
+
+
+#权限
+chmod 777 normal.sh
