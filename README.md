@@ -15,7 +15,7 @@ cat XXX
 ls list 列出目录下文件
 cd changedir 切换目录
 pwd 列出当前的路径
-
+rm 删除
 mv 移动文件或文件夹
 ——————————————
 apt 所有的程序安装管理  理同termux
